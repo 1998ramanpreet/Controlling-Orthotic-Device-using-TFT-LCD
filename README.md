@@ -33,6 +33,6 @@ When ‘OK’ button is pressed SCREEN 3 is displayed and when ‘BACK’ button
 ### SCREEN 3 
 When ‘BACK’ button is pressed SCREEN 2 is displayed and ‘OK’ button is pressed the code for controlling machine starts running. <br>
 
-<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/IMG_20180717_174301.jpg" alt="screen3a" align="left" width="25%" height="25%>
-<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/screen3.PNG" alt="screen3b" align="right" width="25%" height="25%>
+<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/IMG_20180717_174301.jpg" alt="screen3a" align="left" width="25%" height="25%">
+<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/screen3.PNG" alt="screen3b" align="right" width="25%" height="25%">
 
