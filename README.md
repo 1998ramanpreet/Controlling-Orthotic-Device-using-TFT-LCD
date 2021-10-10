@@ -19,8 +19,10 @@ rehabilitation for ankle movement control. The TFT LCD interacts
 with Arduino Uno.
 
 ### SCREEN 1  
-When ‘New Patient’ or ‘Existing Patient’ buttons are pressed SCREEN 2 is displayed. <br>
-<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/IMG_20180717_174216.jpg" alt="screen1" width="25%" height="25%" align="center">
+When ‘New Patient’ or ‘Existing Patient’ buttons are pressed SCREEN 2 is displayed.
+<p align="center">
+  <img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/IMG_20180717_174216.jpg" alt="screen1" align="center"width="25%" height="25%">
+</p>
 
 ### SCREEN 2 
 When ‘OK’ button is pressed SCREEN 3 is displayed and when ‘BACK’ button is pressed SCREEN 1 is displayed.<br>
