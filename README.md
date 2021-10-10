@@ -9,7 +9,7 @@ their hand function. The functional recovery of hemiparetic limbs
 can occur and the recovery process can continue even years after 
 the brain injury.<br>
 
-<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/circuit.jpg" alt="circuit">
+<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/circuit1.jpg" alt="circuit">
 
 ## Working
 The Robo Rehab made using Arduino IDE controls the working of machine 
