@@ -8,7 +8,7 @@ pathway of motor function and the patients can gradually restore
 their hand function. The functional recovery of hemiparetic limbs 
 can occur and the recovery process can continue even years after 
 the brain injury.
-
+<img src="\images\circuit view.jpg" alt="circuit">
 ## Working
 The Robo Rehab made using Arduino IDE controls the working of machine 
 designed for robotic rehabilitation for ankle movement control. The Robo Rehab TFT LCD consist of three screens. Through 
