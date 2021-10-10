@@ -10,7 +10,7 @@ can occur and the recovery process can continue even years after
 the brain injury.<br>
 
 <img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/circuit1.jpg" alt="circuit">
-
+<br>
 ## Working
 The Robo Rehab made using Arduino IDE controls the working of machine 
 designed for robotic rehabilitation for ankle movement control. The Robo Rehab TFT LCD consist of three screens. Through 
@@ -19,13 +19,18 @@ rehabilitation for ankle movement control. The TFT LCD interacts
 with Arduino Uno.
 
 ### SCREEN 1  
-When ‘New Patient’ or ‘Existing Patient’ buttons are pressed 
-SCREEN 2 is displayed.
+When ‘New Patient’ or ‘Existing Patient’ buttons are pressed SCREEN 2 is displayed. <br>
+<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/IMG_20180717_174216.jpg" alt="screen1">
+
 
 ### SCREEN 2 
-When ‘OK’ button is pressed SCREEN 3 is displayed and when 
-‘BACK’ button is pressed SCREEN 1 is displayed.
+When ‘OK’ button is pressed SCREEN 3 is displayed and when ‘BACK’ button is pressed SCREEN 1 is displayed.<br>
+
+<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/IMG_20180717_174225.jpg" alt="screen2">
 
 ### SCREEN 3 
-When ‘BACK’ button is pressed SCREEN 2 is displayed and ‘OK’ 
-button is pressed the code for controlling machine starts running. 
+When ‘BACK’ button is pressed SCREEN 2 is displayed and ‘OK’ button is pressed the code for controlling machine starts running. <br>
+
+<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/IMG_20180717_174301.jpg" alt="screen3a" align="left">
+<img src="https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD/blob/main/Images/screen3.PNG" alt="screen3b" align="right">
+
